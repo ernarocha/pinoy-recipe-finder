@@ -66,7 +66,7 @@ const Homepage = () => {
       <div className="w-full bg-[#fcca59] py-22 h-180 flex flex-col items-center justify-center">
         <div className="text-center mb-8 mt-30 opacity-100 container mx-auto px-4 flex flex-col items-center justify-center">
           <h2 className="text-6xl max-w-3xl font-medium text-gray-800 mb-4 font-serif">
-            Discover Filipino Cuisine
+            Discover Timeless Flavors
           </h2>
           <p className="text-gray-600 text-[22px] max-w-4xl pt-4 px-4 mx-auto text-center font-body">
             Explore Filipino recipes you&apos;ll love! From classic favorites
