@@ -20,7 +20,7 @@ A modern React application built with Vite.
 
 1. Navigate to the project directory:
    ```bash
-   cd prf
+   cd pinoy-recipe-finder
    ```
 
 2. Install dependencies:
