@@ -1,4 +1,4 @@
-# prf
+# pinoy recipe finder
 
 A modern React application built with Vite.
 
